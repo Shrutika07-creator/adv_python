@@ -13,5 +13,8 @@
   "notebook.formatOnCellExecution": true,
   "notebook.codeActionsOnSave": {
     "notebook.source.fixAll": "explicit"
-  }
+  },
+  "workbench.colorTheme": "Visual Studio Light",
+  "workbench.preferredDarkColorTheme": "Default Light Modern",
+  "workbench.preferredHighContrastColorTheme": "Visual Studio Light"
 }
